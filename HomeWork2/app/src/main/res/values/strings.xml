@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork2</string>
+    <string name="text">text</string>
+    <string name="input">input</string>
+    <string name="next"><![CDATA[Next>]]></string>
+    <string name="update">update</string>
+</resources>
